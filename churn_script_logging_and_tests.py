@@ -1,3 +1,10 @@
+'''
+This code contains all kinds of test on churn customer prediction including dataframe and analyzed model
+
+Author : Lu Jiang
+
+Date 20th December 2023
+'''
 import os
 import logging
 from math import ceil
